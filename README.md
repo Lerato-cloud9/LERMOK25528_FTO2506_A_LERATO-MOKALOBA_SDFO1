@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [LERATO-MOKALOBA]
+# 👋 Hi, I'm LERATO-MOKALOBA
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -32,10 +32,10 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🤝 Teamwork & Collaboration-i enjoyed picking on other's ideas and approach on the challenge
+- 📢 Communication Skills-one of them was reaching out to coach and my peers for assistance
+- 🎯 Problem-Solving-i was  able to fix the little mistakes i encountered during my 1st challenge
+- 🚀 Adaptability-i adjusted to using new tools like Git and VS code
 
 ---
 
@@ -58,8 +58,8 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
+- 🚀 Get fully comfortable using Git and GitHub
+- 🎨 Learn and become a PRO in HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others
 
 ---
@@ -74,7 +74,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I love learning new things,exploring,solving problems and can't wait to build my first website!
 
 ---
 
